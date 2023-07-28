@@ -2,6 +2,12 @@
 
 This repository contains the description of a 2-tier architecture on AWS for a FLASK App deployment. The architecture consists of the following main components - the VPC, the Application Tier, and the Database Tier.
 
+## Architecture Overview
+
+The 2-tier architecture on AWS for Flask app deployment looks like this:
+
+![2-Tier Architecture Diagram](architecture_diagram.png)
+
 ## Overview of Components
 
 ### VPC (Virtual Private Cloud)
